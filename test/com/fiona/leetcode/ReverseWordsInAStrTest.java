@@ -57,7 +57,7 @@ public class ReverseWordsInAStrTest {
 		assertEquals("a", resultStr);
 	}
 	
-	@Test
+	@Test(timeout=100)
 	public void testVeryLongString() {
 		String test = "eqfeabrm.!zibb'lf.vtyu,fa jbxiw,anv'cktr?fcmacynh?zy,dzzvqi,retp','uqn!ftf!ko!tmnibwhrgaqyhqhatvmihozvv!noahf?g?kxpz wzpzgnrna,"
 				+ ",z c.kcm ld ngp?qlo!euhh!n ho!owonpwymyixpket!hs!!jmgjuwqu kj?fmdouwauvpu,?f'kvqqw'lpjvg'ochva gddqos,st.ta,vc fyrkvd'gdl.wn,crfv?ek,"
