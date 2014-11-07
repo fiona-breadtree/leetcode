@@ -7,7 +7,9 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-	PlusOneSolutionTest.class
+	PlusOneSolutionTest.class,
+	ReverseWordsInAStrTest.class,
+	LRUCacheTest.class
 })
 //
 public class TestSuite {
