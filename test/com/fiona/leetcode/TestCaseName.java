@@ -1,8 +1,3 @@
-/**
- *
- *  Property of Research in Motion, copyright 2012.
- *
- */
 
 package com.fiona.leetcode;
 
